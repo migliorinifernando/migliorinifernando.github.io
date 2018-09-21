@@ -1,2 +1,2 @@
 # migliorinifernando.github.io
-presentation, projects and CV
+CV's repository
